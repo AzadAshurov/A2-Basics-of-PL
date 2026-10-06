@@ -1,0 +1,16 @@
+C:\Users\Azad\Desktop\A2-Basics-of-PL\task4\Code\C#\MatrixSlicing\bin\Debug\net10.0\MatrixSlicing.exe
+C:\Users\Azad\Desktop\A2-Basics-of-PL\task4\Code\C#\MatrixSlicing\bin\Debug\net10.0\MatrixSlicing.deps.json
+C:\Users\Azad\Desktop\A2-Basics-of-PL\task4\Code\C#\MatrixSlicing\bin\Debug\net10.0\MatrixSlicing.runtimeconfig.json
+C:\Users\Azad\Desktop\A2-Basics-of-PL\task4\Code\C#\MatrixSlicing\bin\Debug\net10.0\MatrixSlicing.dll
+C:\Users\Azad\Desktop\A2-Basics-of-PL\task4\Code\C#\MatrixSlicing\bin\Debug\net10.0\MatrixSlicing.pdb
+C:\Users\Azad\Desktop\A2-Basics-of-PL\task4\Code\C#\MatrixSlicing\obj\Debug\net10.0\MatrixSlicing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azad\Desktop\A2-Basics-of-PL\task4\Code\C#\MatrixSlicing\obj\Debug\net10.0\MatrixSlicing.AssemblyInfoInputs.cache
+C:\Users\Azad\Desktop\A2-Basics-of-PL\task4\Code\C#\MatrixSlicing\obj\Debug\net10.0\MatrixSlicing.AssemblyInfo.cs
+C:\Users\Azad\Desktop\A2-Basics-of-PL\task4\Code\C#\MatrixSlicing\obj\Debug\net10.0\MatrixSlicing.csproj.CoreCompileInputs.cache
+C:\Users\Azad\Desktop\A2-Basics-of-PL\task4\Code\C#\MatrixSlicing\obj\Debug\net10.0\MatrixSlicing.sourcelink.json
+C:\Users\Azad\Desktop\A2-Basics-of-PL\task4\Code\C#\MatrixSlicing\obj\Debug\net10.0\MatrixSlicing.dll
+C:\Users\Azad\Desktop\A2-Basics-of-PL\task4\Code\C#\MatrixSlicing\obj\Debug\net10.0\refint\MatrixSlicing.dll
+C:\Users\Azad\Desktop\A2-Basics-of-PL\task4\Code\C#\MatrixSlicing\obj\Debug\net10.0\MatrixSlicing.pdb
+C:\Users\Azad\Desktop\A2-Basics-of-PL\task4\Code\C#\MatrixSlicing\obj\Debug\net10.0\MatrixSlicing.genruntimeconfig.cache
+C:\Users\Azad\Desktop\A2-Basics-of-PL\task4\Code\C#\MatrixSlicing\obj\Debug\net10.0\ref\MatrixSlicing.dll
+C:\Users\Azad\Desktop\A2-Basics-of-PL\task4\Code\C#\MatrixSlicing\obj\Debug\net10.0\MatrixSl.A90C555F.Up2Date
