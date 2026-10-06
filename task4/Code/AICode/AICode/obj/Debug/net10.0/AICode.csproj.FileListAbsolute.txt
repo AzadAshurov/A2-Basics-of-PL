@@ -1,0 +1,16 @@
+C:\Users\Azad\Desktop\A2-Basics-of-PL\task4\Code\AICode\AICode\bin\Debug\net10.0\AICode.exe
+C:\Users\Azad\Desktop\A2-Basics-of-PL\task4\Code\AICode\AICode\bin\Debug\net10.0\AICode.deps.json
+C:\Users\Azad\Desktop\A2-Basics-of-PL\task4\Code\AICode\AICode\bin\Debug\net10.0\AICode.runtimeconfig.json
+C:\Users\Azad\Desktop\A2-Basics-of-PL\task4\Code\AICode\AICode\bin\Debug\net10.0\AICode.dll
+C:\Users\Azad\Desktop\A2-Basics-of-PL\task4\Code\AICode\AICode\bin\Debug\net10.0\AICode.pdb
+C:\Users\Azad\Desktop\A2-Basics-of-PL\task4\Code\AICode\AICode\obj\Debug\net10.0\AICode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azad\Desktop\A2-Basics-of-PL\task4\Code\AICode\AICode\obj\Debug\net10.0\AICode.AssemblyInfoInputs.cache
+C:\Users\Azad\Desktop\A2-Basics-of-PL\task4\Code\AICode\AICode\obj\Debug\net10.0\AICode.AssemblyInfo.cs
+C:\Users\Azad\Desktop\A2-Basics-of-PL\task4\Code\AICode\AICode\obj\Debug\net10.0\AICode.csproj.CoreCompileInputs.cache
+C:\Users\Azad\Desktop\A2-Basics-of-PL\task4\Code\AICode\AICode\obj\Debug\net10.0\AICode.sourcelink.json
+C:\Users\Azad\Desktop\A2-Basics-of-PL\task4\Code\AICode\AICode\obj\Debug\net10.0\AICode.dll
+C:\Users\Azad\Desktop\A2-Basics-of-PL\task4\Code\AICode\AICode\obj\Debug\net10.0\refint\AICode.dll
+C:\Users\Azad\Desktop\A2-Basics-of-PL\task4\Code\AICode\AICode\obj\Debug\net10.0\AICode.pdb
+C:\Users\Azad\Desktop\A2-Basics-of-PL\task4\Code\AICode\AICode\obj\Debug\net10.0\AICode.genruntimeconfig.cache
+C:\Users\Azad\Desktop\A2-Basics-of-PL\task4\Code\AICode\AICode\obj\Debug\net10.0\ref\AICode.dll
+C:\Users\Azad\Desktop\A2-Basics-of-PL\task4\Code\AICode\AICode\obj\Debug\net10.0\AICode.csproj.Up2Date
